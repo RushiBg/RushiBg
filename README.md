@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @RushiBg
+- 👀 I’m interested in technology, open-source projects, and coding.
+- 🌱 I’m learning web development, advanced Python, and core Java.
+- 💞️ I want to collaborate on open-source projects and innovative tech solutions.
+- 📫 How to reach me: You can reach me via email at rushiakbari123@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/rushi-akbari-723361264/).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and exploring new trails on weekends!
