@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RushiBg
+- 👋 Hi, I’m @Rushi Akbari
 - 👀 I’m interested in technology, open-source projects, and coding.
 - 🌱 I’m learning web development, advanced Python, and core Java.
 - 💞️ I want to collaborate on open-source projects and innovative tech solutions.
